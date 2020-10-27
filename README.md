@@ -1,0 +1,2 @@
+# ssusp
+SSU Schedule Parser
