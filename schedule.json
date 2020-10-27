@@ -1,0 +1,355 @@
+{
+    "pageURL":"https://www.sgu.ru/schedule/mm/do/342",
+    "schedule":[
+        [
+            [],
+            [],
+            [],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 2",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Скроб Т. В.",
+                    "location":"9 корп. ауд. 207",
+                    "aHref":"https://www.sgu.ru//person/skrob-tatyana-vladimirovna"
+                },
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 3",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Сабитова Л. Р.",
+                    "location":"9 корп. ауд. 412",
+                    "aHref":"https://www.sgu.ru//person/sabitova-liliya-ravilevna"
+                },
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 1",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Сосновская А. А.",
+                    "location":"9 корп. ауд. 204",
+                    "aHref":"https://www.sgu.ru//person/sosnovskaya-anna-aleksandrovna"
+                },
+                {
+                    "parity":"чис.",
+                    "type":"пр.",
+                    "other":"перев. 4",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Смирнова А. Ю.",
+                    "location":"9 корп. ауд. 208",
+                    "aHref":"https://www.sgu.ru//person/smirnova-anna-yuvenalevna"
+                },
+                {
+                    "parity":"знам.",
+                    "type":"пр.",
+                    "other":"перев. 4",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Смирнова А. Ю.",
+                    "location":"9 корп. ауд.308",
+                    "aHref":"https://www.sgu.ru//person/smirnova-anna-yuvenalevna"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"web-дизайн",
+                    "title":"Разработка Web-узлов и приложений",
+                    "author":"Бессонов Л. В.",
+                    "location":"9 корп. ауд. 111",
+                    "aHref":"https://www.sgu.ru//person/bessonov-leonid-valentinovich"
+                }
+            ],
+            [
+                {
+                    "parity":"чис.",
+                    "type":"лек.",
+                    "other":"web-дизайн",
+                    "title":"Разработка Web-узлов и приложений",
+                    "author":"Бессонов Л. В.",
+                    "location":"9 корп. ауд. 402",
+                    "aHref":"https://www.sgu.ru//person/bessonov-leonid-valentinovich"
+                },
+                {
+                    "parity":"знам.",
+                    "type":"пр.",
+                    "other":"web-дизайн",
+                    "title":"Векторная графика",
+                    "author":"Дмитриев П. О.",
+                    "location":"9 корп. ауд. 111",
+                    "aHref":"https://www.sgu.ru//person/dmitriev-pavel-olegovich"
+                }
+            ],
+            [],
+            []
+        ],
+        [
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Элективные дисциплины по физической культуре и спорту",
+                    "author":"Юренков И. Н.",
+                    "location":"",
+                    "aHref":"https://www.sgu.ru//person/yurenkov-igor-nikolaevich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Методы компьютерного моделирования",
+                    "author":"Бессонов Л. В.",
+                    "location":"9 корп. ауд. 111",
+                    "aHref":"https://www.sgu.ru//person/bessonov-leonid-valentinovich"
+                }
+            ],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [
+                {
+                    "parity":"знам.",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Информационные системы и технологии",
+                    "author":"Кальянов Л. В.",
+                    "location":"9 корп. ауд. им. Д.И. Лучинина (401)",
+                    "aHref":"https://www.sgu.ru//person/kalyanov-leontiy-veniaminovich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Методы компьютерного моделирования",
+                    "author":"Бессонов Л. В.",
+                    "location":"9 корп. ауд. 409",
+                    "aHref":"https://www.sgu.ru//person/bessonov-leonid-valentinovich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Компьютерная графика и современный дизайн",
+                    "author":"Бескровный А. С.",
+                    "location":"9 корп. ауд. 309",
+                    "aHref":"https://www.sgu.ru//person/beskrovnyy-aleksandr-sergeevich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 4",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Смирнова А. Ю.",
+                    "location":"9 корп. ауд. 406",
+                    "aHref":"https://www.sgu.ru//person/smirnova-anna-yuvenalevna"
+                },
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 2",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Скроб Т. В.",
+                    "location":"9 корп. ауд. 310",
+                    "aHref":"https://www.sgu.ru//person/skrob-tatyana-vladimirovna"
+                },
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"перев. 1",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Сосновская А. А.",
+                    "location":"9 корп. ауд. 307",
+                    "aHref":"https://www.sgu.ru//person/sosnovskaya-anna-aleksandrovna"
+                },
+                {
+                    "parity":"чис.",
+                    "type":"пр.",
+                    "other":"перев. 3",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Сабитова Л. Р.",
+                    "location":"9 корп. ауд. 111",
+                    "aHref":"https://www.sgu.ru//person/sabitova-liliya-ravilevna"
+                },
+                {
+                    "parity":"знам.",
+                    "type":"пр.",
+                    "other":"перев. 3",
+                    "title":"Практический курс иностранного языка",
+                    "author":"Сабитова Л. Р.",
+                    "location":"9 корп. ауд. 205",
+                    "aHref":"https://www.sgu.ru//person/sabitova-liliya-ravilevna"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"лек.",
+                    "other":"переводчики",
+                    "title":"Теория перевода",
+                    "author":"Целовальникова Д. Н.",
+                    "location":"9 корп. ауд. 218",
+                    "aHref":"https://www.sgu.ru//person/celovalnikova-darya-nikolaevna"
+                }
+            ],
+            [
+                {
+                    "parity":"чис.",
+                    "type":"лек.",
+                    "other":"web-дизайн",
+                    "title":"спецкурс 2",
+                    "author":"Золотов В. С.",
+                    "location":"9 корп. ауд. 402",
+                    "aHref":"https://www.sgu.ru//person/zolotov-vladislav-sergeevich"
+                }
+            ],
+            [],
+            []
+        ],
+        [
+            [],
+            [
+                {
+                    "parity":"",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Компьютерная графика и современный дизайн",
+                    "author":"Бескровный А. С.",
+                    "location":"9 корп. ауд. 400",
+                    "aHref":"https://www.sgu.ru//person/beskrovnyy-aleksandr-sergeevich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Безопасность жизнедеятельности",
+                    "author":"Иванюков М. И.",
+                    "location":"9 корп. ауд. 402",
+                    "aHref":"https://www.sgu.ru//person/ivanyukov-mihail-ivanovich"
+                }
+            ],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [
+                {
+                    "parity":"чис.",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Безопасность жизнедеятельности",
+                    "author":"Иванюков М. И.",
+                    "location":"9 корп. ауд. им. Д.И. Лучинина (401)",
+                    "aHref":"https://www.sgu.ru//person/ivanyukov-mihail-ivanovich"
+                },
+                {
+                    "parity":"знам.",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Элективные дисциплины по физической культуре и спорту",
+                    "author":"Юренков И. Н.",
+                    "location":"",
+                    "aHref":"https://www.sgu.ru//person/yurenkov-igor-nikolaevich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Базовая теоретическая практика",
+                    "author":"Юрченко И. С.",
+                    "location":"9 корп. ауд. 310",
+                    "aHref":"https://www.sgu.ru//person/yurchenko-irina-sergeevna"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Информационные системы и технологии",
+                    "author":"Кальянов Л. В.",
+                    "location":"9 корп. ауд. 310",
+                    "aHref":"https://www.sgu.ru//person/kalyanov-leontiy-veniaminovich"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Базы данных",
+                    "author":"Плаксина И. В.",
+                    "location":"9 корп. ауд. 310",
+                    "aHref":"https://www.sgu.ru//person/plaksina-irina-vladimirovna"
+                }
+            ],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [
+                {
+                    "parity":"чис.",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Автоматизация поиска в Интернете",
+                    "author":"Коробченко Е. В.",
+                    "location":"9 корп. ауд. 407",
+                    "aHref":"https://www.sgu.ru//person/korobchenko-elena-vitalevna"
+                }
+            ],
+            [
+                {
+                    "parity":"",
+                    "type":"лек.",
+                    "other":"",
+                    "title":"Базы данных",
+                    "author":"Плаксина И. В.",
+                    "location":"9 корп. ауд. им. Д.И. Лучинина (401)",
+                    "aHref":"https://www.sgu.ru//person/plaksina-irina-vladimirovna"
+                }
+            ],
+            [
+                {
+                    "parity":"знам.",
+                    "type":"пр.",
+                    "other":"",
+                    "title":"Автоматизация поиска в Интернете",
+                    "author":"Небалуев С. И.",
+                    "location":"9 корп. ауд. 312",
+                    "aHref":"https://www.sgu.ru//person/nebaluev-sergey-ivanovich"
+                }
+            ],
+            [],
+            [],
+            [],
+            []
+        ]
+    ]
+}
